@@ -10,7 +10,7 @@ body {
   height: 500px;
 }
 
-.ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
+.ryu > div {
   width: 659px;
   height: 494px;
 }
